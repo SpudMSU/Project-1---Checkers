@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Puzzle cassett8</string>
+    <string name="sparty_img">Picture of the solved puzzle</string>
+    <string name="start_puzzle">Start Puzzle</string>
+    <string name="text_desc">Welcome to Spencers Puzzle</string>
+</resources>
